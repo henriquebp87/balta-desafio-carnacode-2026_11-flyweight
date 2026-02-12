@@ -1,4 +1,4 @@
-![CR-3](https://github.com/user-attachments/assets/485b7ff1-c098-40bf-93b4-00058c8729a9)
+![ES-6](https://github.com/user-attachments/assets/f45a9cd1-e873-4945-b771-caacc98d7a11)
 
 ## 🥁 CarnaCode 2026 - Desafio 11 - Flyweight
 
